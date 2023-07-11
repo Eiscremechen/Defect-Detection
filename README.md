@@ -9,7 +9,7 @@ Steps for usage:
 
 The data format is selected as a .txt file. The "mat2txt" folder in this project provides a matlab program for converting .mat files to .txt files.
 
-In addition, the "Test Data" folder in this project provides a Test Data for the bearing SKF 6205. The bearing data comes from the open source Bearing Center of Western Reserve University.
+In addition, the "Data from CWRU" folder in this project provides a Test Data for the bearing SKF 6205. The bearing data comes from the open source Bearing Center of Western Reserve University.
 Links: https://engineering.case.edu/bearingdatacenter/welcome
 
 
@@ -24,5 +24,5 @@ Links: https://engineering.case.edu/bearingdatacenter/welcome
 
 数据格式选择为.txt 文件。 该项目中的“mat2txt”文件夹提供了一个用于将.mat文件转换为.txt文件的matlab程序。
 
-另外，本项目中的“Test Data”文件夹提供了轴承SKF 6205的测试数据。该轴承数据来自西储大学开源轴承中心。
+另外，本项目中的“Data from CWRU”文件夹提供了轴承SKF 6205的测试数据。该轴承数据来自西储大学开源轴承中心。
 链接：https://engineering.case.edu/bearingdatacenter/welcome
